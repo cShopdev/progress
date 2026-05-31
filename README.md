@@ -6,7 +6,7 @@ cShop progress (Some things may take time, I'm a solo dev!)
 
 - [x] Get frontend loaded
 - [x] Make Rankings work 
-- [ ] Have voting system
+- [x] Have voting/rating system
 - [x] Proper Search
 - [x] Get games loaded properly
 - [x] Connected titles and stuff to their own banner
