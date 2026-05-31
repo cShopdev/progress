@@ -5,9 +5,9 @@ cShop progress (Some things may take time, I'm a solo dev!)
 ## Front end
 
 - [x] Get frontend loaded
-- [x] Make Rankings work 
-- [x] Have voting/rating system
-- [x] Proper Search
+- [x] Make Rankings work (Wii U)
+- [x] Have voting/rating system (Wii U)
+- [x] Proper Search (Wii U)
 - [x] Get games loaded properly
 - [x] Connected titles and stuff to their own banner
 - [ ] Get DLC (and passes) working properly
